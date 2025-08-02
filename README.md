@@ -19,7 +19,7 @@ This project demonstrates key practices in database administration, particularly
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 | Technology     | Purpose                                  |
 |----------------|-------------------------------------------|
@@ -69,4 +69,5 @@ MIT License
 - [Microsoft SQL Server Docs](https://learn.microsoft.com/sql/)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 - [Brent Ozar SQL Performance Guide](https://www.brentozar.com/)
+
 
